@@ -19,13 +19,13 @@ I first learned to solve a Rubik's cube with the Beginner's Method.  This took m
 >
 [-Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
-* https://www.youcandothecube.com/solve-it/3-x-3-solution
-* https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/
-* https://www.ryanheise.com/cube/beginner.html
+* [https://www.youcandothecube.com/solve-it/3-x-3-solution](https://www.youcandothecube.com/solve-it/3-x-3-solution)
+* [https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/)
+* [https://www.ryanheise.com/cube/beginner.html](https://www.ryanheise.com/cube/beginner.html)
 
 ## Fridrich Method (ie. CFOP: Cross, F2L, OLL, PLL)
-* http://en.lerubikscube.com/fridrich-method-3x3/
-* http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html
+* [http://en.lerubikscube.com/fridrich-method-3x3/](http://en.lerubikscube.com/fridrich-method-3x3/)
+* [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html)
 
 ## 3 Look OLL - Orientation of the Last Layer
 
@@ -49,7 +49,7 @@ Repeat the sequence (```R U R' U R U2 R'```) while the yellow-side is in any of 
 * Double Headlights
 * Chameleon Car
 
-**Note:** refer to http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html for detailed descriptions of the above yellow-side states
+**Note:** refer to [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html) for detailed descriptions of the above yellow-side states
 
 ### 3. Third Look OLL
 
@@ -59,7 +59,7 @@ After the Second Look OLL is finished, the yellow-side is in one of the followin
 * Headlights
 * Chameleon
 
-If the yellow side is solved, then move onto the permutations of the last layer to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon:
+If the yellow side is solved, then move onto the permutations of the last layer (ie. PLL) to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon:
 
 * **Headlights:**
 	* Turn the cube so that the headlights are on the front face
@@ -68,7 +68,7 @@ If the yellow side is solved, then move onto the permutations of the last layer 
 	* Turn the cube so that the chameleon is facing you.  Perform an X' turn (the whole cube rotated counterclockwise on X axis, ie. the top should now be front)
 	* Perform the sequence (```R U R' D R U' R' D'```)
 
-**Note:** refer to http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html for detailed descriptions of the above yellow-side states
+**Note:** refer to [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html) for detailed descriptions of the above yellow-side states
 
 ## Resources
 * [ruwix.com](https://ruwix.com/)
