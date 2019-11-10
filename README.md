@@ -13,6 +13,11 @@ First off, let me begin with the end in mind.  That is, anyone can solve a Rubik
 
 I first learned to solve a Rubik's cube with the Beginner's Method.  This took me about 1-year to accomplish.  And 6 months later, I could easily solve the cube with the Beginnner's Method in under 2 minutes.  At this time, I had put enough time and effort into this puzzle to autonomously understand the fundamental movements of the cube and the side-effects of those movements with adjacent and opposite pieces.  The Fridrich Method (ie. CFOP: Cross, F2L, OLL, PLL) followed as a natural progression of this intuition.  Basically when formulating a bottom-up solution, properly placed pieces remain immutable while incorrectly placed pieces are allowed to move freely.  Thus, loop invariance and idemptotence are vital, fundamental concepts and building blocks towards a solution which sequentially builds upon itself.
 
+## Demonstration
+
+[![](http://img.youtube.com/vi/lbKGoJQKRRE/0.jpg)](http://www.youtube.com/watch?v=lbKGoJQKRRE "Rubik's Cube Solutions")
+
+
 ## Beginner's Method
 
 > Take the first step in faith. You don't have to see the whole staircase, just take the first step.
