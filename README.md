@@ -14,6 +14,10 @@ First off, let me begin with the end in mind.  That is, anyone can solve a Rubik
 I first learned to solve a Rubik's cube with the Beginner's Method.  This took me about 1-year to accomplish.  And 6 months later, I could easily solve the cube with the Beginnner's Method in under 2 minutes.  At this time, I had put enough time and effort into this puzzle to autonomously understand the fundamental movements of the cube and the side-effects of those movements with adjacent and opposite pieces.  The Fridrich Method (ie. CFOP: Cross, F2L, OLL, PLL) followed as a natural progression of this intuition.  Basically when formulating a bottom-up solution, properly placed pieces remain immutable while incorrectly placed pieces are allowed to move freely.  Thus, loop invariance and idemptotence are vital, fundamental concepts and building blocks towards a solution which sequentially builds upon itself.
 
 ## Tutorial
+> I can only show you the door. You’re the one that has to walk through it.
+>
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
+
 * [Introduction and Overview](https://www.youtube.com/watch?v=FpV8LeDJlXQ)
 * [Know Your Cube](https://www.youtube.com/watch?v=KRiHwcC6oCo)
 * [White Cross](https://www.youtube.com/watch?v=4U1eGLw3X8k)
@@ -34,6 +38,10 @@ I first learned to solve a Rubik's cube with the Beginner's Method.  This took m
 * [https://www.ryanheise.com/cube/beginner.html](https://www.ryanheise.com/cube/beginner.html)
 
 ## Fridrich Method (ie. CFOP: Cross, F2L, OLL, PLL)
+> What are you waiting for? You're faster than this. Don't think you are, know you are.
+>
+[-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
+
 * [http://en.lerubikscube.com/fridrich-method-3x3/](http://en.lerubikscube.com/fridrich-method-3x3/)
 * [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html)
 
