@@ -77,7 +77,7 @@ After the Second Look OLL is finished, the yellow-side is in one of the followin
 * Headlights
 * Chameleon
 
-If the yellow side is solved, then move onto the permutations of the last layer (ie. PLL) to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon:
+If the yellow side is solved, then move onto the permutations of the last layer (ie. PLL) to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon, then move onto PLL:
 
 * **Headlights:**
 	* Turn the cube so that the headlights are on the front face
