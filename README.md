@@ -11,7 +11,7 @@ First off, let me begin with the end in mind.  That is, anyone can solve a Rubik
 >
 [-Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil)
 
-I first learned to solve a Rubik's cube with the Beginner's Method.  This took me about 1-year to accomplish.  And 6 months later, I could easily solve the cube with the Beginnner's Method in under 2 minutes.  At this time, I had put enough time and effort into this puzzle to autonomously understand the fundamental movements of the cube and the side-effects of those movements with adjacent and opposite pieces.  The Fridrich Method (ie. CFOP: Cross, F2L, OLL, PLL) followed as a natural progression of this intuition.  Basically when formulating a bottom-up solution, properly placed pieces remain immutable while incorrectly placed pieces are allowed to move freely.  Thus, loop invariance and idemptotence are vital, fundamental concepts and building blocks towards a solution which sequentially builds upon itself.
+I first learned to solve a Rubik's cube with the Beginner's Method.  This took me about 1-year to accomplish.  And 6 months later, I could easily solve the cube with the Beginnner's Method in under 2 minutes.  At this time, I had put enough time and effort into this puzzle to autonomously understand the fundamental movements of the cube and the side-effects of those movements with adjacent and opposite pieces.  The Fridrich Method (ie. CFOP: Cross, F2L, OLL, PLL) followed as a natural progression of this intuition.  Basically, when formulating a bottom-up solution, properly placed pieces remain immutable while incorrectly placed pieces are allowed to move freely.  Thus, loop invariants and idempotence are vital, fundamental concepts and building blocks towards a solution which sequentially builds upon itself.
 
 ## Tutorial
 > I can only show you the door. You’re the one that has to walk through it.
@@ -77,7 +77,7 @@ After the Second Look OLL is finished, the yellow-side is in one of the followin
 * Headlights
 * Chameleon
 
-If the yellow side is solved, then move onto the permutations of the last layer (ie. PLL) to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon:
+If the yellow side is solved, then move onto the permutations of the last layer (ie. PLL) to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon, then move onto PLL:
 
 * **Headlights:**
 	* Turn the cube so that the headlights are on the front face
