@@ -25,7 +25,7 @@ I first learned to solve a Rubik's cube with the Beginner's Method.  This took m
 * [Middle Layer](https://www.youtube.com/watch?v=DAm2iH-lDFU)
 
 ## Demonstration
-* [2020 Rubik's Cube Solutions: Loop Invariants + Idempotence of OLL + PLL and Fridrich Method(https://www.youtube.com/watch?v=PQrcjo3kj2A&feature=youtu.be)
+* [2020 Rubik's Cube Solutions: Loop Invariants + Idempotence of OLL + PLL and Fridrich Method](https://www.youtube.com/watch?v=PQrcjo3kj2A&feature=youtu.be)
 * [2019 Rubik's Cube Solutions: Beginner's Method and Fridrich Method](http://www.youtube.com/watch?v=lbKGoJQKRRE)
 
 ## Beginner's Method
