@@ -26,7 +26,8 @@ During this journey, I acquired ancedotal evidence that simpling deciding upon a
 * [White Corners](https://www.youtube.com/watch?v=xIC4tbCTcqo)
 * [Middle Layer](https://www.youtube.com/watch?v=DAm2iH-lDFU)
 
-## Demonstration
+## Demonstrations
+* [2021 Fridrich Method (on Father's Day)](https://www.youtube.com/watch?v=uW24wSNrm5w): It warms my heart that my son likes these kinds of things.  This is a CFOP solve: cross, first 2 layers simultaneously, orientation of the last layer, and permutations of the last layer.
 * [2020 Rubik's Cube Solutions: Loop Invariants + Idempotence of OLL + PLL and Fridrich Method](https://www.youtube.com/watch?v=PQrcjo3kj2A&feature=youtu.be)
 * [2019 Rubik's Cube Solutions: Beginner's Method and Fridrich Method](http://www.youtube.com/watch?v=lbKGoJQKRRE)
 
