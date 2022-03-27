@@ -27,6 +27,7 @@ During this journey, I acquired ancedotal evidence that simpling deciding upon a
 * [Middle Layer](https://www.youtube.com/watch?v=DAm2iH-lDFU)
 
 ## Demonstrations
+* [Sub-40 second CFOP solve](https://www.youtube.com/watch?v=pBbMj0WkfUc)
 * [2021 Fridrich Method (on Father's Day)](https://www.youtube.com/watch?v=uW24wSNrm5w): It warms my heart that my son likes these kinds of things.  This is a CFOP solve: cross, first 2 layers simultaneously, orientation of the last layer, and permutations of the last layer.
 * [2020 Rubik's Cube Solutions: Loop Invariants + Idempotence of OLL + PLL and Fridrich Method](https://www.youtube.com/watch?v=PQrcjo3kj2A&feature=youtu.be)
 * [2019 Rubik's Cube Solutions: Beginner's Method and Fridrich Method](http://www.youtube.com/watch?v=lbKGoJQKRRE)
@@ -47,7 +48,6 @@ During this journey, I acquired ancedotal evidence that simpling deciding upon a
 [-Morpheus (The Matrix, 1999)](https://en.wikipedia.org/wiki/The_Matrix)
 
 * [http://en.lerubikscube.com/fridrich-method-3x3/](http://en.lerubikscube.com/fridrich-method-3x3/)
-* [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html)
 
 ## 3 Look OLL - Orientation of the Last Layer
 
@@ -59,38 +59,47 @@ In order to solve the cube using the Fridrich Method, over 80 algorithms are nee
 
 ### 1. First Look OLL
 
-Generate the yellow cross
+Generate the yellow cross `F U R U' R' F'`
 
 ### 2. Second Look OLL
 
 Repeat the sequence (```R U R' U R U2 R'```) while the yellow-side is in any of the following states:
 
-* Fish Swimming Left
-* Fish Swimming Right
-* Diagonals (ie. double headed fish)
-* Double Headlights
-* Chameleon Car
+#### Fish Swimming Left
+![](fish-swimming-left.png)
 
-**Note:** refer to [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html) for detailed descriptions of the above yellow-side states
+#### Fish Swimming Right
+![](fish-swimming-right.png)
+
+#### Diagonals (ie. double headed fish)
+![](double-headed-fish.png)
+
+#### Double Headlights
+![](double-headlights.png)
+
+#### Chameleon Car
+![](chameleon-car.png)
 
 ### 3. Third Look OLL
 
 After the Second Look OLL is finished, the yellow-side is in one of the following 3 states:
 
-* Solved
-* Headlights
-* Chameleon
+#### Solved (ie. all yellow pieces are on the same side)
+![](solved.png)
 
 If the yellow side is solved, then move onto the permutations of the last layer (ie. PLL) to properly align the corners and edges of the last layer.  Otherwise, solve the Headlights/Chameleon, then move onto PLL:
 
-* **Headlights:**
-	* Turn the cube so that the headlights are on the front face
-	* Perform the sequence (```R2 D R' U2 R D' R' U2 R'```)
-* **Chameleon:**
-	* Turn the cube so that the chameleon is facing you.  Perform an X' turn (the whole cube rotated counterclockwise on X axis, ie. the top should now be front)
-	* Perform the sequence (```R U R' D R U' R' D'```)
+#### Headlights
+![](headlights.png)
+* Turn the cube so that the headlights are on the front face
+* Perform the sequence (```R2 D R' U2 R D' R' U2 R'```)
+* https://www.youtube.com/shorts/h5J8DKMFn78
 
-**Note:** refer to [http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html](http://loki.ist.unomaha.edu/~jtrimm/project/ollpll.html) for detailed descriptions of the above yellow-side states
+#### Chameleon
+![](chameleon.png)
+* Turn the cube so that the chameleon is facing you.  Perform an X' turn (the whole cube rotated counterclockwise on X axis, ie. the top should now be front)
+* Perform the sequence (```R U R' D R U' R' D'```)
+* https://www.youtube.com/shorts/ok2RUqkuzXo
 
 ## Resources
 * [ruwix.com](https://ruwix.com/)
