@@ -93,13 +93,13 @@ If the yellow side is solved, then move onto the permutations of the last layer 
 ![](headlights.png)
 * Turn the cube so that the headlights are on the front face
 * Perform the sequence (```R2 D R' U2 R D' R' U2 R'```)
-* https://www.youtube.com/shorts/h5J8DKMFn78
+* [See screenshare on YouTube 👀](https://www.youtube.com/shorts/h5J8DKMFn78)
 
 #### Chameleon
 ![](chameleon.png)
 * Turn the cube so that the chameleon is facing you.  Perform an X' turn (the whole cube rotated counterclockwise on X axis, ie. the top should now be front)
 * Perform the sequence (```R U R' D R U' R' D'```)
-* https://www.youtube.com/shorts/ok2RUqkuzXo
+* [See screenshare on YouTube 👀](https://www.youtube.com/shorts/ok2RUqkuzXo)
 
 ## Resources
 * [ruwix.com](https://ruwix.com/)
