@@ -27,6 +27,7 @@ During this journey, I acquired ancedotal evidence that simpling deciding upon a
 * [Middle Layer](https://www.youtube.com/watch?v=DAm2iH-lDFU)
 
 ## Demonstrations
+* [2022 Cubing with my co-pilot (Harry Potter)](https://www.youtube.com/watch?v=TDZSIdIu0f0)
 * [2022 Sub-40 second CFOP solve](https://www.youtube.com/watch?v=pBbMj0WkfUc)
 * [2021 Fridrich Method (on Father's Day)](https://www.youtube.com/watch?v=uW24wSNrm5w): It warms my heart that my son likes these kinds of things.  This is a CFOP solve: cross, first 2 layers simultaneously, orientation of the last layer, and permutations of the last layer.
 * [2020 Rubik's Cube Solutions: Loop Invariants + Idempotence of OLL + PLL and Fridrich Method](https://www.youtube.com/watch?v=PQrcjo3kj2A&feature=youtu.be)
