@@ -106,3 +106,7 @@ If the yellow side is solved, then move onto the permutations of the last layer 
 * [ruwix.com](https://ruwix.com/)
 * [rubiks-cu.be](https://rubiks-cu.be/)
 * [rubiks-cube-solver.com](https://rubiks-cube-solver.com/)
+
+## Captain's Log
+
+* *2024-01-08:* **44** seconds
