@@ -115,3 +115,4 @@ If the yellow side is solved, then move onto the permutations of the last layer 
 * *2024-01-11:* **38** seconds
 * *2024-01-12:* **45** seconds
 * *2024-01-13:* 39.447, 40.842, 41.035
+* *2024-01-14:* 40.955, 49.054, 49.398
